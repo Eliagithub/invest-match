@@ -91,3 +91,6 @@ This project is licensed under the [MIT License](LICENSE).
 ### Admin dashboard
 ![Sign In](/public/preview/admin.png)
 
+### Entity Relationship Diagram
+![ERD](/public/preview/schema_diagram.png)
+

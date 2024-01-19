@@ -68,7 +68,7 @@ This project is licensed under the [MIT License](LICENSE).
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/iwmvictor/investor-match.git
+   git clone https://github.com/Eliagithub/investor-match.git
 
 
 ## Screenshots
